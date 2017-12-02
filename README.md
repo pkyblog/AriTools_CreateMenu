@@ -1,5 +1,5 @@
 # AriTools_CreateMenu
-ファイル・フォルダをスキャンしてCG自習部屋　Mayaの時間(http://cgjishu.net/)にて公開されている  
+ファイル・フォルダをスキャンしてCG自習部屋　Mayaの時間(http://cgjishu.net/) にて公開されている  
 AriTools用のスクリプトランチャーメニューをMayaに自動作成します。  
 
 maya/scriptsフォルダ以下に解凍したファイル・フォルダを格納して利用します。  
