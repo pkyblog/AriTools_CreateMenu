@@ -4,7 +4,6 @@ import sys
 
 def AriTools_CreateMenu():
 	from AriTools import AriTools_CreateMenu
-	reload(AriTools_CreateMenu)
 	AriTools_CreateMenu.main()
 
 def main():
